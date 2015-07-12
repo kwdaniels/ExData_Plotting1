@@ -112,3 +112,8 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+##How to run the scripts
+
+* Set your R working directory to this local git repository
+* In the local repository, unzip exdata-data-household_power_consumption.zip to exdata-data-household_power_consumption.txt
+* Load and run each script (plot1.R, plot2.R, plot3.R, plot4.R) successively. This will generate a corresponding image (plot1.png, plot2.png, plot3.png, plot4.png) in your local git repository
